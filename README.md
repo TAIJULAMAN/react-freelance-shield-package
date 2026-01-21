@@ -5,7 +5,6 @@
 [![npm version](https://img.shields.io/npm/v/react-freelance-shield.svg)](https://www.npmjs.com/package/react-freelance-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
-[![Bundle Size](https://img.shields.io/bundlephobia/minzip/react-freelance-shield)](https://bundlephobia.com/package/react-freelance-shield)
 
 ---
 
@@ -811,40 +810,10 @@ Built with ❤️ for the freelance community. Inspired by the countless develop
 - The TypeScript team for type safety
 - All freelancers fighting for fair payment
 
----
-
-## 📞 Support & Community
-
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/react-freelance-shield/issues)
-- 💡 **Feature Requests:** [GitHub Discussions](https://github.com/yourusername/react-freelance-shield/discussions)
-- 📧 **Email:** support@example.com
-- 💬 **Discord:** [Join our community](https://discord.gg/example)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
----
-
 ## 🌟 Show Your Support
 
 If this package helped protect your work, please:
 
 - ⭐ Star the repo on GitHub
-- 🐦 Share on Twitter with #FreelanceShield
-- 📝 Write a blog post about your experience
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourhandle)
-
----
-
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/react-freelance-shield?style=social)
-![npm downloads](https://img.shields.io/npm/dm/react-freelance-shield)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/react-freelance-shield)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/react-freelance-shield)
-
----
-
-**Remember:** This is a deterrent, not DRM. Use it as part of a professional workflow with clear contracts and payment terms. Always protect yourself legally first, and use this as an additional layer of protection.
-
----
 
 **Made with 🛡️ by developers, for developers**
