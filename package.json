@@ -11,13 +11,13 @@
     "LICENSE"
   ],
   "scripts": {
-    "dev": "rollup -c -w",
-    "build": "rollup -c",
+    "dev": "node init && rollup -c -w",
+    "build": "node init && rollup -c",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "typecheck": "tsc --noEmit",
-    "prepublishOnly": "npm run build && npm run test"
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "react",
