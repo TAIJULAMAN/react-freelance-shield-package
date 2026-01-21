@@ -1,0 +1,32 @@
+# Source files
+src/
+examples/
+
+# Configuration
+tsconfig.json
+rollup.config.js
+vitest.config.ts
+.eslintrc.js
+.prettierrc
+
+# Testing
+**/*.test.ts
+**/*.test.tsx
+coverage/
+.nyc_output/
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+.github/
+
+# Misc
+*.log
+.DS_Store
